@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="external">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TetrisTheta/external/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TetrisTheta/external/Jama-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TetrisTheta/external/log4j-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
